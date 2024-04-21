@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide > div {
+    margin: 0  10px;
+}
+
+.custom-dots-class li {
+    margin: 0 4px; /* Adjust the spacing between dots */
+}
+
+.custom-dots-class li button {
+    background-color: #F53838; /* Change the color of the dots */
+    width: 10px; /* Adjust the width of the dots */
+    height: 10px; /* Adjust the height of the dots */
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+
