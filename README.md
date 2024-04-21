@@ -1,3 +1,9 @@
+GitHub : https://github.com/prateekbaisla/Lasles-Vpn
+Live : https://main--laslesvpn-prateek.netlify.app/
+You tube live demo : https://www.youtube.com/watch?v=cpyZyDXbUqU
+Documentation : https://drive.google.com/file/d/1KMLMzUonBYzxfwy6JFADkxGChbzKUmF5/view?usp=drive_link
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
